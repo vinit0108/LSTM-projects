@@ -1,1 +1,1 @@
-# LSTM-projects
+# LSTM-projects (Time Series Forecasting)
